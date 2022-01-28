@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Study App</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+
+    //timer
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="start_time">0:00</string>
+    <string name="default_time">1:00</string>
+    <string name="lets_eat">Waktu telah selesai !</string>
+
+    //note
+    <string name="title">Judul Mapel</string>
+    <string name="type_subtitle_here">Judul bab/sub-Bab</string>
+    <string name="set_deadline">Tanggal</string>
+    <string name="type_description_here">Tulis catatanmu disini...</string>
+    <string name="delete">Delete</string>
+    <string name="setup">SETUP</string>
+    <string name="pick_your_color">Pilih warna</string>
+    <string name="add_image">Tambahkan gambar</string>
+    <string name="add_url">Tambahkan link/tautan</string>
+    <string name="enter_url_here">Tambahkan link/tautan disini</string>
+    <string name="add">Tambah</string>
+    <string name="cancel">Batal</string>
+    <string name="are_you_sure_want_to_delete_this_todo">apakah kamu yakin ingin menghapus catatan ini ? </string>
+    <string name="delete_todo">Hapus Catatan</string>
+</resources>

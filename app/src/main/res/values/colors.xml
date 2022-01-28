@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="col_accent">#64b6ac</color>
+    <color name="background_luar">#daffef</color>
+
+    <color name="col_def_note">#3C3F41</color>
+    <color name="col_miscell_bg">#323232</color>
+    <color name="colNote2">#FDBE3B</color>
+    <color name="colNote3">#FF4842</color>
+    <color name="colNote4">#3592C4</color>
+    <color name="colNote5">#000000</color>
+    <color name="col_src_bg">#4E5051</color>
+    <color name="col_icon">#A4A4A4</color>
+    <color name="col_del">#FF4842</color>
+    <color name="note_bg">#ffda79</color>
+    <color name="timer_bg">#3CFF1600</color>
+    <color name="todo_bg">#FFA8A8EA</color>
+    <color name="cal_bg">#93faa5</color>
+    <color name="item_desc">#EAEAEA</color>
+</resources>
